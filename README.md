@@ -355,6 +355,7 @@ You can see in which language an app is written. Currently there are following l
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
 - [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail.  ![swift_icon] 
+- [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible mail client, forked from Nylas.  ![typescript] 
 
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
